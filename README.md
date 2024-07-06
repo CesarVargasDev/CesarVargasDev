@@ -1,9 +1,9 @@
 ## Hi there 👋
+<a href="https://u8views.com/github/CesarVargasDev"><img src="https://u8views.com/api/v1/github/profiles/26362312/views/day-week-month-total-count.svg"></a>
 
 <!--
 **CesarVargasDev/CesarVargasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 aa
-<a href="https://u8views.com/github/CesarVargasDev"><img src="https://u8views.com/api/v1/github/profiles/26362312/views/day-week-month-total-count.svg"></a>
 [![Cesar Vargas profile views](https://u8views.com/api/v1/github/profiles/26362312/views/day-week-month-total-count.svg)](https://u8views.com/github/CesarVargasDev)
 Here are some ideas to get you started:
 
